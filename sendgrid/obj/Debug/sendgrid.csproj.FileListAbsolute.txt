@@ -9,3 +9,6 @@ C:\work example\sendgrid\sendgrid\obj\Debug\sendgrid.pdb
 C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.dll
 C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.pdb
 C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\sendgrid\sendgrid\bin\Debug\sendgrid.exe.config
+C:\GitHub\sendgrid\sendgrid\obj\Debug\sendgrid.exe
+C:\GitHub\sendgrid\sendgrid\obj\Debug\sendgrid.pdb

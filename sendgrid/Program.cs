@@ -16,8 +16,8 @@ namespace sendgrid
     {
         static void Main(string[] args)
         {
-            //AddUnsubscribeEmailAddress("swu@yorkvilleu.ca");
-            //DeleteUnsubscribeEmailAddress("swu@yorkvilleu.ca");
+            AddUnsubscribeEmailAddress("swu@yorkvilleu.ca");
+            DeleteUnsubscribeEmailAddress("swu@yorkvilleu.ca");
             GetAllUnsubscribesEmailAddress("swu@yorkvilleu.ca");
             
             Console.ReadLine();
