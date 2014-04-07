@@ -1,0 +1,11 @@
+C:\work example\sendgrid\sendgrid\bin\Debug\sendgrid.exe.config
+C:\work example\sendgrid\sendgrid\bin\Debug\sendgrid.exe
+C:\work example\sendgrid\sendgrid\bin\Debug\sendgrid.pdb
+C:\work example\sendgrid\sendgrid\bin\Debug\System.Net.Http.dll
+C:\work example\sendgrid\sendgrid\bin\Debug\System.Net.Http.xml
+C:\work example\sendgrid\sendgrid\obj\Debug\sendgrid.csprojResolveAssemblyReference.cache
+C:\work example\sendgrid\sendgrid\obj\Debug\sendgrid.exe
+C:\work example\sendgrid\sendgrid\obj\Debug\sendgrid.pdb
+C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.dll
+C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.pdb
+C:\work example\sendgrid\sendgrid\bin\Debug\Newtonsoft.Json.xml
